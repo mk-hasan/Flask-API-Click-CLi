@@ -1,4 +1,4 @@
-# Gymondo API
+# The API
 The api has been created using the Python Flask and hosted on the free hosting platfrom called pythonanywhere.
 The endpoints are :
 
