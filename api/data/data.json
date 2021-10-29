@@ -1,0 +1,52 @@
+{
+ "events": [
+  {
+   "event": "covid",
+   "event_category": "pandemic",
+   "id": 1,
+   "year": "2020"
+  },
+  {
+   "event": "west coast wildfires",
+   "event_category": "environmental",
+   "id": 2,
+   "year": "2020"
+  },
+  {
+   "event": "summer olympics",
+   "event_category": "sports",
+   "id": 1,
+   "year": "2021"
+  },
+  {
+   "year": "2030",
+   "id": "10",
+   "event_category": "Anual",
+   "event": "hallowen"
+  },
+  {
+   "year": "2030",
+   "id": "10",
+   "event_category": "Anual",
+   "event": "hallowen"
+  },
+  {
+   "year": 2030,
+   "id": "10",
+   "event_category": "Anual",
+   "event": "Rag Day"
+  },
+  {
+   "year": "2028",
+   "id": "9",
+   "event_category": "Annual",
+   "event": "Hallowen"
+  },
+  {
+   "year": "2035",
+   "id": "12",
+   "event_category": "School Culture",
+   "event": "Sports Day"
+  }
+ ]
+}

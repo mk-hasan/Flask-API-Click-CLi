@@ -1,0 +1,7 @@
+setup.py
+gymondo.egg-info/PKG-INFO
+gymondo.egg-info/SOURCES.txt
+gymondo.egg-info/dependency_links.txt
+gymondo.egg-info/entry_points.txt
+gymondo.egg-info/requires.txt
+gymondo.egg-info/top_level.txt
